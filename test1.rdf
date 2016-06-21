@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>テストチャンネル</title>
+		<link>http://localhost</link>
+		<description>テスト用の RSS フィード</description>
+		<pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
+		<item>
+			<title>１回目の配信記事</title>
+			<link>http://localhost/item/1</link>
+			<description>ですくりぷしょん</description>
+			<pubDate>Fri, 01 Jan 2016 01:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>descriptionがCDATAセクションで記述されている記事</title>
+			<link>http://localhost/item/1</link>
+			<description><![CDATA[<b>CDATA</b> section]]></description>
+			<pubDate>Fri, 01 Jan 2016 00:02:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>descriptionにhtmlエンティティを含む記事</title>
+			<link>http://localhost/item/1</link>
+			<description>html &amp; entity</description>
+			<pubDate>Fri, 01 Jan 2016 00:01:00 +0900</pubDate>
+		</item>
+	</channel>
+</rss>
