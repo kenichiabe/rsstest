@@ -6,9 +6,8 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
 		<item>
-			<title>あいうえおへ</title>
+			<title>あいうえおへは</title>
 			<link>http://localhost/item/1</link>
-			<description></description>
 			<pubDate>Fri, 01 Jan 2016 01:00:00 +0900</pubDate>
 		</item>
 		<item>
