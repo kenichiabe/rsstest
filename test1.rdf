@@ -4,7 +4,7 @@
 		<title>テストチャンネル</title>
 		<link>http://www.yahoo.co.jp</link>
 		<description>テスト用の RSS フィード</description>
-		<pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
+		<pubDate>Wed, 01 Jun 2016 00:00:00 +0900</pubDate>
 		<item>
 			<title>１回目の配信記事</title>
 			<link>http://localhost/item/1</link>
