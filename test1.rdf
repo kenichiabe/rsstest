@@ -6,9 +6,9 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
 		<item>
-			<title>4回目の配信記事です！！！！</title>
+			<title>5回目の配信記事です！！！！</title>
 			<link>http://localhost/item/1</link>
-			<description>わーいわーい<br>わーい</br></description>
+			<description>わーいわーい<script>alert('hello');</script>わーい</br></description>
 			<pubDate>Fri, 01 Jan 2016 01:00:00 +0900</pubDate>
 		</item>
 		<item>
