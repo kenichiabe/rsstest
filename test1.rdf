@@ -8,7 +8,7 @@
 		<item>
 			<title>3回目の配信記事です！！！！</title>
 			<link>http://localhost/item/1</link>
-			<description><![CDATA[<b>2回目</b>の<br>descriptionで<script>alert('hello');</script>す]]></description>
+			<description><![CDATA[<b>2回目</b>の<br>descriptionです]]></description>
 			<pubDate>Fri, 01 Jan 2016 01:00:00 +0900</pubDate>
 		</item>
 		<item>
