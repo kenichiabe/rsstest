@@ -6,15 +6,15 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
 		<item>
-			<title>3回目の配信記事です！！！！</title>
+			<title>3-1回目の配信記事です！！！！</title>
 			<link>http://localhost/item/1</link>
-			<description>3回目のdescriptionです</description>
+			<description>3-1回目のdescriptionです</description>
 			<pubDate>Fri, 01 Jan 2016 01:00:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>descriptionがCDATAセクションで記述されている記事2</title>
 			<link>http://localhost/item/1</link>
-			<description><![CDATA[<b>CDATA</b> sectionわーい]]></description>
+			<description><![CDATA[<b>CDATA</b> sectionわーいああああ]]></description>
 			<pubDate>Fri, 01 Jan 2016 00:02:00 +0900</pubDate>
 		</item>
 		<item>
