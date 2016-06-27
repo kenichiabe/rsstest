@@ -4,11 +4,11 @@
 		<title>テストチャンネル</title>
 		<link>http://www.yahoo.co.jp</link>
 		<description>テスト用の RSS フィード</description>
-		<pubDate>Fri, 01 Jan 2016 00:00:00 +0900</pubDate>
+		<pubDate>Mon, 27 Jun 2016 23:55:00 +0900</pubDate>
 		<item>
-			<title>あいうえおへは</title>
-			<link>http://localhost/item/1</link>
-			<pubDate>Fri, 01 Jan 2016 01:00:00 +0900</pubDate>
+			<title>これはどうかな</title>
+			<link>http://www.google.co.jp</link>
+			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
 		</item>
 		<item>
 			<title>descriptionがCDATAセクションで記述されている記事2</title>
