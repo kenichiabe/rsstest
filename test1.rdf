@@ -6,9 +6,9 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Mon, 27 Jun 2016 23:55:00 +0900</pubDate>
 		<item>
-			<title>これはどうかなあいう</title>
+			<title>これはどうかなあいうえ</title>
 			<link>http://www.google.co.jp</link>
-			<description>'''''''''''''';;;;;;;;;;;;;;;;;あいうえお</description>
+			<description>'''''''''''''';;https://qa.refreshers:8083/assets/js/ckeditor/plugins/smiley/images/sad_smile.gif;;;;;;;;;;;;;;;あいうえお</description>
 			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
 		</item>
 		<item>
