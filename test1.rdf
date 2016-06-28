@@ -8,6 +8,7 @@
 		<item>
 			<title>これはどうかなあ</title>
 			<link>http://www.google.co.jp</link>
+			<description><![CDATA[<b>CDATA</b> sectionわーい<script>alert('hello');</script>ああああ]]></description>
 			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
 		</item>
 		<item>
