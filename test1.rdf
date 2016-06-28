@@ -6,7 +6,7 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Mon, 27 Jun 2016 23:55:00 +0900</pubDate>
 		<item>
-			<title>!"#$%&'()=~|\^-[@{`]:;}*+\/.,<>?_}です！</title>
+			<title>!"#$%'()=~|\^-[@{`]:;}*+\/.,<>?_}です！</title>
 			<description><![CDATA[ <img alt="sad" height="20" src="https://qa.refreshers:8083/assets/js/ckeditor/plugins/smiley/images/sad_smile.gif" title="sad" width="20" />]]></description>
 			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
 		</item>
