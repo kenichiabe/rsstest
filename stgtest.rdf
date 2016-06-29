@@ -6,18 +6,18 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Mon, 27 Jun 2016 23:55:00 +0900</pubDate>
 		<item>
-			<title>あいうえおです！</title>
-			<description><![CDATA[ <img alt="sad" height="20" src="https://qa.refreshers:8083/assets/js/ckeditor/plugins/smiley/images/sad_smile.gif" title="sad" width="20" />]]></description>
+			<title>第一回</title>
+			<description>今日はよい天気ではありません。</description>
 			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
 		</item>
   	<item>
-			<title>descriptionがCDATAセクションで記述されている記事3</title>
+			<title>descriptionがCDATAセクションで記述されている記事1</title>
 			<link>http://localhost/item/1</link>
 			<description><![CDATA[<b>CDATA</b> sectionわーいああああ]]></description>
 			<pubDate>Fri, 01 Jan 2016 00:02:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>descriptionにhtmlエンティティを含む記ああらら事</title>
+			<title>descriptionにhtmlエンティティを含む記事1</title>
 			<link>http://localhost/item/1</link>
 			<description>html &amp; entity</description>
 			<pubDate>Fri, 01 Jan 2016 00:01:00 +0900</pubDate>
