@@ -6,7 +6,7 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Tue, 28 Jun 2016 00:00:00 +0900</pubDate>
 		<item>
-			<title>1回目：test2の RSS</title>
+			<title>2回目：test2の RSS</title>
 			<link>http://search.rakuten.co.jp/search/mall/-/211260/?s=2&amp;v=3</link>
 			<description>1回目のdescriptionです</description>
 			<pubDate>Tue, 28 Jun 2016 13:34:09 +0900</pubDate>
