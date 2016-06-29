@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
 	<channel>
-		<title>!"#$%'()=~|\^-[@]:;\/,._?><+*}{`</title>
+		<title>テストRSSです</title>
 		<link>https://bizboard.nikkeibp.co.jp/servlet/EipAuthServlet?BZB_USER=A286a0010&amp;BZB_PASSWD=i-ypee-yc4bted7&amp;BZB_URL=https%3A%2F%2Fbizboard.nikkeibp.co.jp%2Fbp_nissay%2F</link>
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Tue, 28 Jun 2016 00:00:00 +0900</pubDate>
