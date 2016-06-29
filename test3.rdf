@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>テストチャンネル</title>
+		<link>http://www.yahoo.co.jp</link>
+		<description>テスト用の RSS フィード</description>
+		<pubDate>Mon, 27 Jun 2016 23:55:00 +0900</pubDate>
+		<item>
+			<title>test2</title>
+			<description><![CDATA[ <img alt="sad" height="20" src="https://qa.refreshers:8083/assets/js/ckeditor/plugins/smiley/images/sad_smile.gif" title="sad" width="20" />]]></description>
+			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
+		</item>
+	</channel>
+</rss>
