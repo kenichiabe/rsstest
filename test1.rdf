@@ -6,6 +6,12 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Mon, 27 Jun 2016 23:55:00 +0900</pubDate>
 		<item>
+			<title>禁則処理確認RSS</title>
+			<description>あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあ<あ『いうえお『うえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ</description>
+			<link>http://www.yahoo.co.jp</link>
+			<pubDate>Mon, 27 Jun 2016 23:55:00 +9:00</pubDate>
+		</item>
+		<item>
 			<title>あいうえおです！</title>
 			<description><![CDATA[ <img alt="sad" height="20" src="https://qa.refreshers:8083/assets/js/ckeditor/plugins/smiley/images/sad_smile.gif" title="sad" width="20" />]]></description>
 			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
