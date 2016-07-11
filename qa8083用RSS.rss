@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>テストチャンネル</title>
+		<link>http://www.yahoo.co.jp</link>
+		<description>テスト用の RSS フィード</description>
+		<pubDate>Mon, 27 Jun 2016 23:55:00 +0900</pubDate>
+		<item>
+			<title>禁則処理確認RSS1_2016/07/11</title>
+			<description>あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあ。あ『いうえお『うえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ</description>
+			<link>http://www.yahoo.co.jp</link>
+			<pubDate>Mon, 27 Jun 2016 23:55:00 +9:00</pubDate>
+		</item>
+		<item>
+			<title>あいうえおです！</title>
+			<description><![CDATA[ <img alt="sad" height="20" src="https://qa.refreshers:8083/assets/js/ckeditor/plugins/smiley/images/sad_smile.gif" title="sad" width="20" />]]></description>
+			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>4ネット掲示板に子どもの悪口を書き込まれた1ら・・・(日経DUAL,2016/05/16)</title>
+			<link>http://bizboard.nikkeibp.co.jp/servlet/EipAuthServlet?BZB_USER=A286a0010&amp;BZB_PASSWD=i-ypee-yc4bted7&amp;BZB_URL=http%3A%2F%2Fbizboard.nikkeibp.co.jp%2Fbp_dual%2Fbizboard%2Farticle.aspx%3Fid%3D7957%26bzb_pt%3D0</link>
+			<description><![CDATA[　子どもの成長はうれしいものですが、幼稚園、
+			小学校、中学校と進むにつれて子どもをとりまくトラブルは色々と出てきます。
+			　ママ友とのいさかい、子ども同士のけんか、学校<br>とのトラブルなど子育て世代の悩みは尽きません。]]></description>
+			<pubDate>Tue, 24 May 2016 13:18:45 +0900</pubDate>
+		</item>
+
+		<item>
+			<title>石川遼7月復帰へ 結婚後初戦ああああ</title>
+			<link>http://news.yahoo.co.jp/pickup/6205710</link>
+			<pubDate>Tue, 28 Jun 2016 08:38:16 +0900</pubDate>
+			<enclosure length="133" url="http://i.yimg.jp/images/icon/photo.gif" type="image/gif"></enclosure>
+			<guid isPermaLink="false">yahoo/news/topics/6205710</guid>
+		</item>
+		<item>
+			<title>ネット掲示板に子どもの悪口を書き込まれたら・・！！！・(日経DUAL,2016/05/16)</title>
+			<link>http://bizboard.nikkeibp.co.jp/servlet/EipAuthServlet?BZB_USER=A286a0010&amp;BZB_PASSWD=i-ypee-yc4bted7&amp;BZB_URL=http%3A%2F%2Fbizboard.nikkeibp.co.jp%2Fbp_dual%2Fbizboard%2Farticle.aspx%3Fid%3D7957%26bzb_pt%3D0</link>
+			<description>　子どもの成長はうれしいものですが、幼稚園、小学校、中学校と進むにつれて子どもをとりまくトラブルは色々と出てきます。ママ友とのいさかい、子ども同士のけんか、学校とのトラブルなど子育て世代の悩みは尽きません。</description>
+			<pubDate>Tue, 24 May 2016 13:18:45 +0900</pubDate>
+		</item>
+		<item>
+			<title>descriptionがCDATAセクションで記述されている記事3</title>
+			<link>http://localhost/item/1</link>
+			<description><![CDATA[<b>CDATA</b> sectionわーいああああ]]></description>
+			<pubDate>Fri, 01 Jan 2016 00:02:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>descriptionにhtmlエンティティを含む記ああらら事</title>
+			<link>http://localhost/item/1</link>
+			<description>html &amp; entity</description>
+			<pubDate>Fri, 01 Jan 2016 00:01:00 +0900</pubDate>
+		</item>
+	</channel>
+</rss>
