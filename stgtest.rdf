@@ -6,29 +6,29 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Mon, 27 Jun 2016 23:55:00 +0900</pubDate>
 		<item>
-			<title>　第ニ回だよ6</title>
+			<title>　第ニ回だよ7</title>
 			<link>http://www.yahoo.co.jp</link>
 			<description><![CDATA[　今日はよい天気ではありません。<br>今日はよい天気ではありません。今日はよい天気ではありません。今日はよい天気ではありません。]]></description>
 			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
 		</item>
-  	<item>
-			<title>descriptionがCDATAセクションで記述されている記事5</title>
+  		<item>
+			<title>descriptionがCDATAセクションで記述されている記事7</title>
 			<link>http://localhost/item/1</link>
 			<description><![CDATA[<b>CDATA</b> sectionわーいああああ]]></description>
 			<pubDate>Fri, 01 Jan 2016 00:02:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>descriptionにhtmlエンティティを含む記事5</title>
-			<link>http://localhost/item/1</link>
-			<description>html &amp; entity</description>
-			<pubDate>Fri, 01 Jan 2016 00:01:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>フッキ64億円で移籍 中国へ5</title>
+			<title>フッキ64億円で移籍 中国へ7</title>
 			<link>http://news.yahoo.co.jp/pickup/6205891</link>
 			<pubDate>Wed, 29 Jun 2016 16:03:56 +0900</pubDate>
 			<enclosure length="133" url="http://i.yimg.jp/images/icon/photo.gif" type="image/gif"></enclosure>
 			<guid isPermaLink="false">yahoo/news/topics/6205891</guid>
+		</item>
+		<item>
+			<title>descriptionにhtmlエンティティを含む記事7</title>
+			<link>http://localhost/item/1</link>
+			<description>html &amp; entity</description>
+			<pubDate>Fri, 01 Jan 2016 00:01:00 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
