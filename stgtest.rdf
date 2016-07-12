@@ -6,18 +6,18 @@
 		<description>テスト用の RSS フィード</description>
 		<pubDate>Mon, 27 Jun 2016 23:55:00 +0900</pubDate>
 		<item>
-			<title>　第ニ回&amp;だよ2016/07/12 </title>
+			<title>その1-1　第ニ回&amp;だよ2016/07/12 </title>
 			<description><![CDATA[　今日はよい天気ではありません。<br>今日はよい天気ではありません。今日はよい天気ではありません。今日はよい天気ではありません。]]></description>
 			<pubDate>Mon, 27 Jun 2016 23:59:00 +0900</pubDate>
 		</item>
   		<item>
-			<title>descriptionがCDATAセクションで記述されている記事7</title>
+			<title>その1-2descriptionがCDATAセクションで記述されている記事7</title>
 			<link>http://localhost/item/1</link>
 			<description><![CDATA[<b>CDATA</b> sectionわーいああああ]]></description>
 			<pubDate>Fri, 01 Jan 2016 00:02:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>フッキ64億円で移籍 中国へ7</title>
+			<title>その1-3フッキ64億円で移籍 中国へ7</title>
 			<link>http://news.yahoo.co.jp/pickup/6205891</link>
 			<pubDate>Wed, 29 Jun 2016 16:03:56 +0900</pubDate>
 			<enclosure length="133" url="http://i.yimg.jp/images/icon/photo.gif" type="image/gif"></enclosure>
